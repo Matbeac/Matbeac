@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matbeac
 - 👀 I’m interested in coding, football, reading, adventures
-- 🌱 I’m currently learning data science at Le Wagon
-- 💞️ I’m looking to collaborate on entrepreneurship projects
+- 🌱 Le Wagon 2021 graduate
+- 💞️ I’m looking to collaborate on entrepreneurial projects
 - 📫 How to reach me on Linkedin https://www.linkedin.com/in/mateo-beacco-6b10a3164/
 
 <!---
